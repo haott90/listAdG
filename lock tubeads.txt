@@ -1,5 +1,5 @@
-||googlevideo.com^$important
-||googlevideo.com^
+#||googlevideo.com^$important
+#||googlevideo.com^
 127.0.0.1 *.googlevideo.com
 127.0.0.1 r1---sn-n4v7knlz.googlevideo.com
 127.0.0.1 r2---sn-n4v7knlz.googlevideo.com
